@@ -1,0 +1,28 @@
+[common]
+server_addr = 39.107.221.83
+server_port = 7000
+token = 19990902
+
+[Pi4_ssh1]
+type = tcp
+local_ip = 192.168.31.129
+local_port = 22
+remote_port = 7002
+
+[Pi4_ssh2]
+type = tcp
+local_ip = 192.168.0.168
+local_port = 22
+remote_port = 7003
+
+[Pi4_vnc]
+type = tcp
+local_ip = 192.168.31.129
+local_port = 5900
+remote_port = 7004
+
+[HA_web]
+type = http
+local_port = 8123
+remote_port = 8123
+custom_domains = charleshe.top

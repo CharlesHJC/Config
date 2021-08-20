@@ -1,0 +1,92 @@
+Windows环境 定义功能为游戏机+工作站
+
+
+PC基础类：
+Cisco Anyconnect	 https://download.dgclouds.net/	 anyconnect.dgclouds.net:24685/dgi.anyconnect.dgclouds.net:45543	2021/20212021
+
+MotionPro	http://www.bipt.edu.cn/vpn/
+
+腾讯电脑管家	https://guanjia.qq.com/sem/gj/index.html?ADTAG=media.buy.baidu.sembrand2
+
+FireFox		http://www.firefox.com.cn/
+
+Chrome		https://www.google.cn/chrome/
+
+-----------------------------------------------------------------
+
+日常应用类：
+微信		https://weixin.qq.com/
+
+Telegram		https://telegram.org/
+
+TIM		https://office.qq.com/
+
+企业微信		https://work.weixin.qq.com/
+
+腾讯课堂		https://ke.qq.com/
+
+腾讯会议		https://meeting.tencent.com/activities/index.html?fromSource=sem4_gwzcw.3910919.3910919.3910919
+
+钉钉		https://www.dingtalk.com/?lwfrom=2017120202091367000000111&source=1001
+
+VNC Viwer	https://www.realvnc.com/en/connect/download/viewer/
+
+-----------------------------------------------------------------
+
+Coding 技术开发类：
+Javajdk		https://www.oracle.com/java/technologies/javase-downloads.html
+
+jetbrains全家桶	https://www.jetbrains.com/zh-cn/products/
+需要CLion IDEA PyCharm
+
+eclipse		https://www.eclipse.org/downloads/
+
+VisualStudio 2019	https://visualstudio.microsoft.com/zh-hans/vs/
+
+VSCode		https://code.visualstudio.com/
+
+Qt		https://www.qt.io/zh-cn/download
+
+Wireshark		https://www.wireshark.org/download.html
+
+IPScanner		https://www.advanced-ip-scanner.com/
+
+RPi Imager	https://www.raspberrypi.org/software/
+
+Filezilla		https://filezilla-project.org/
+
+BalenaEtcher	https://www.balena.io/etcher/
+
+-----------------------------------------------------------------
+
+工具类：
+有道云笔记	https://note.youdao.com/
+
+百度网盘		https://pan.baidu.com/download
+
+迅雷		https://www.xunlei.com/
+迅雷播放组件/迅雷影音
+
+格式工厂		http://www.pcgeshi.com/
+
+Duet		https://www.duetdisplay.com/
+
+Adobe全家桶	百度网盘
+
+oCam录屏	百度网盘
+
+-----------------------------------------------------------------
+
+娱乐游戏：
+爱奇艺		官网
+
+腾讯视频		官网
+
+芒果TV		官网
+
+Steam		官网
+CSGO，GTA5，wallpaper......
+
+战舰世界		中国官网
+
+战雷		官网

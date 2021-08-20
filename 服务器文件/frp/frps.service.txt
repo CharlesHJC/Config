@@ -1,0 +1,18 @@
+#文件目录 /lib/systemd/system/frps.service
+
+[Unit]
+Description=frps server daemon
+Documentation=https://github.com/fatedier/frp
+After=network-online.target
+
+[Service]
+ExecStart=/opt/frp/frps -c /opt/frp/frps.ini
+Type=simple
+User=nobody
+Group=nogroup
+WorkingDirectory=/tmp
+Restart=on-failure
+RestartSec=60s
+
+[Install]
+WantedBy=multi-user.target

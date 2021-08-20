@@ -1,0 +1,5 @@
+fprc.ini		/opt/frp
+frpc.service	/lib/systemd/system
+
+frps.ini		/opt/frp
+frps.service	/etc/systemd/system

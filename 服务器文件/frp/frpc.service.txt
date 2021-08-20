@@ -1,0 +1,18 @@
+#文件目录 /lib/systemd/system/frpc.service
+
+[Unit]
+Description=frpc server daemon
+Documentation=https://github.com/fatedier/frp
+After=network-online.target
+
+[Service]
+ExecStart=/opt/frp/frpc -c /opt/frp/frpc.ini
+Type=simple
+User=nobody
+Group=nogroup
+WorkingDirectory=/tmp
+Restart=on-failure
+RestartSec=60s
+
+[Install]
+WantedBy=multi-user.target
