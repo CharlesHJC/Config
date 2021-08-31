@@ -1,0 +1,33 @@
+{
+  "update.mode": "none",
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.saveAllFilesBeforeRun": true,
+  "workbench.editor.enablePreview": false,
+  "workbench.colorTheme": "One Dark Pro Flat",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 16,
+  "fileheader.customMade": {			// 头部注释默认字段
+  "Author": "CharlesHE",			// 设置后，生成创建人姓名
+  "Date": "Do not edit", 			// 设置后默认设置文件生成时间
+  "LastEditTime": "Do not edit", 	// 设置后，保存文件更改默认更新最后编辑时间
+  "LastEditors": "CharlesHE",		// 设置后，保存文件更改默认更新最后编辑人
+  "Description": "",				// 可以添加描述信息
+  "FilePath": "Do not edit",		// 设置后，默认生成文件相对于项目的路径
+},
+"fileheader.cursorMode": {			// 函数注释默认字段
+  "description":"",				// 可以添加描述信息
+  "param":"",						// 添加参数信息
+  "return":""						// 添加返回值
+},
+"fileheader.configObj": {			// 插件配置项
+  "autoAdd": true, 				// 检测文件没有头部注释，自动添加文件头部注释
+  "autoAlready": true, 			// 只添加插件支持的语言以及用户通过`language`选项自定义的注释
+   "prohibitAutoAdd": [				// 自动添加头部注释黑名单
+    "json","md"
+  ],
+   "wideSame": false, // 头部注释等宽设置
+   "wideNum": 13,  // 头部注释字段长度 默认为13
+  "functionWideNum": 0, // 函数注释等宽设置 设为0 即为关闭
+},
+}
