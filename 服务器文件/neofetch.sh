@@ -9,5 +9,5 @@
 
 #/etc/profile.d/neofetch.sh
 
-!#/bin/bash
+#!/bin/bash
 neofetch
