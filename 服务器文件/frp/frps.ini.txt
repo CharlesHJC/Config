@@ -1,10 +1,12 @@
 [common]
 bind_port = 7000
 token = 19990902
+vhost_http_port = 24680
 
-allow_ports = 24080,7000-7999
-
-[dashboard]
 dashboard_port = 7500
 dashboard_user = charles
 dashboard_pwd = 19990902
+
+log_file = /var/log/frps.log
+log_level = info
+log_max_days = 3
